@@ -1,10 +1,15 @@
-public class Maipublic class Main {
 
+public class Main {
     public static void main(String[] args) {
-        int number = 17;
 
-        System.out.println(number % 15);
+        int a = 432;
+        int b = 15;
+        int procent = a*b/100;
+        System.out.println(procent);
+
 
 
     }
 }
+
+
